@@ -2,6 +2,16 @@ ActsAsConfigurable
 ==================
 
 Introduction goes here.
+My First Plugin.. Saideep Annadatha
+
+Description comes soon.. 
+This is actually to save different configurations as a hash in the table
+
+just add 
+acts_as_configurable 
+in the model
+
+
 
 
 Example
